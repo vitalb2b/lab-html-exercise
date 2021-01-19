@@ -1,0 +1,88 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <img src="Users/vitalb2b/Downloads/Ironhacker/black-heart.png" alt="Girl in a jacket" width="50" height="60">
+  <nav> 
+     <div class="Titulo">
+            Nift Penguin magic
+    
+        </div>
+        <ul>    
+            <li><a href="#">New wenterprise </a>
+            <li><a href="#">Product</li>
+            <li><a href="#">Solution</li>
+            <li><a href="#">Resources</li>
+            <li><a href="#">Docs</li>
+            <li><a href="#">Support</li>
+            
+        </ul>
+    
+        <img src="Users/vitalb2b/Downloads/Ironhacker/black-heart.png" alt="NPM logo" width="50" height="60">
+ 
+    </nav>
+    <img src="Users/vitalb2b/Downloads/Ironhacker/black-heart.png" alt="Lupa logo" width="50" height="60">
+  
+  <head>
+        <meta charset="UTF-8" />
+        <title>NPM Clone Nifty Penguin Magic</title>
+  </head>
+  <body>
+    
+         <div class="topnav">
+            <a href="#"> Join Log In </a>
+            <input type="text" placeholder="Search message">
+            <button type="button">Search!</button>
+        </div>
+
+        <h1>Build amazing things</h1>
+        <div class="red-box">
+            Essential javaScript development that help you go to the market faster and build powerfull application user modern code
+        </div>
+    
+        <a href="#"> See a plan join for free </a>
+        <div>
+            <img src="Users/vitalb2b/Downloads/Ironhacker/black-heart.png" alt="retangulo logo" width="50" height="60">
+        </div>
+    
+        <h2>Bring the best of the open source to your company</h2>
+    
+        <p1> Texto </p1>
+        <div>  
+            <img src="Users/vitalb2b/Downloads/Ironhacker/black-heart.png" alt="Seta" width="50" height="60">
+        </div>
+        
+        <h2>Zero Configuration</h2>
+        
+        <p1> Texto </p1>
+            <div>
+                 <img src="Users/vitalb2b/Downloads/Ironhacker/black-heart.png" alt="Seta" width="50" height="60">
+            </div>
+        
+            <h2>Team Management</h2>
+        
+            <p1> Texto </p1>
+            <div>
+                <imgsrc="Users/vitalb2b/Downloads/Ironhacker/black-heart.png" alt="Seta" width="50" height="60">
+            </div>
+        
+            <h2>Familiar features</h2>
+        
+            <p1> Texto </p1>
+            <div>
+                <img src="Users/vitalb2b/Downloads/Ironhacker/black-heart.png" alt="Seta" width="50" height="60">
+            </div>
+        
+  </body>
+  
+  <footer>
+     <p1> Npm audit </p1>
+
+         <div>
+            <a href="#"> Create an org </a>
+        </div>
+
+    <footer>
+</html>
+
